@@ -2,11 +2,18 @@
 Projekt nr 1 w ramach przedmiotu ZSO (zaawansowane systemy operacyjne)
 
 ## Temat projektu
-Problem świętego Mikołaja. Święty Mikołaj śpi w swojej chatce na biegunie północnym. 
+Problem świętego Mikołaja. 
+
+Święty Mikołaj śpi w swojej chatce na biegunie północnym. 
+
 Może go zbudzić jedynie: przybycie dziewięciu reniferów lub trzy spośród dziesięciu skrzatów, chcących poinformować Mikołaja o problemach z produkcją zabawek. 
+
 Skrzaty i renifery przybywają osobno. Gdy zbiorą się wszystkie renifery, Mikołaj zaprzęga je do sań, dostarcza zabawki grzecznym dzieciom, wyprzęga je i pozwala odejść na spoczynek. 
+
 Mikołaj zbudzony przez skrzaty wprowadza je do biura, udziela konsultacji a później żegna. 
+
 Obsługa reniferów ma priorytet nad obsługą skrzatów. 
+
 Snu Mikołaja nie może przerwać mniej niż dziewięć reniferów ani mniej niż trzy skrzaty!
 
 ## Wytyczne
